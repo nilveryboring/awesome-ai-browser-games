@@ -131,8 +131,9 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 - [Codex CLI](https://github.com/openai/codex) - OpenAI's open-source coding agent for the terminal.
 - [Cursor](https://cursor.com/) - AI code editor; sponsor of the Vibe Jam and used for fly.pieter.com.
 - [Godot MCP](https://github.com/Coding-Solo/godot-mcp) - MCP server that launches the Godot editor, runs projects and captures debug output.
-- [PlayCanvas](https://playcanvas.com/) - Web-first game engine and editor.
 - [Phaser](https://github.com/phaserjs/phaser) - 2D HTML5 game framework.
+- [Playable Gift](https://playablegift.com/) - Hosted tool that uses AI to make a personal browser game about a recipient from details supplied by the sender, with a public MCP server for AI assistants.
+- [PlayCanvas](https://playcanvas.com/) - Web-first game engine and editor.
 - [React Three Fiber](https://github.com/pmndrs/react-three-fiber) - React renderer for Three.js.
 - [Rosebud AI](https://rosebud.ai/) - Describe a game idea or pick a template, then build and deploy it.
 - [Three.js](https://threejs.org/) - The 3D library most AI-built browser games use.
