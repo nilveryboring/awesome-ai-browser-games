@@ -105,6 +105,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 ### AI Opponents
 
 - [Chess.com Computer](https://www.chess.com/play/computer) - Play chess against bots at every skill level, from coach bots to a roster of character bots.
+- [Gammon Royale](https://gammonroyale.com/en) - Play backgammon against four computer levels, then compare your moves with Open Sage in a post-game review.
 - [Leela Chess Zero](https://lczero.org/play/) - Play against an open-source neural network chess engine.
 - [Lichess](https://lichess.org/) - Play chess against the computer, friends or random opponents with no registration.
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw doodles and watch a neural network try to recognize them, and help teach it by playing.
