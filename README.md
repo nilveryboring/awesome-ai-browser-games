@@ -104,6 +104,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 
 ### AI Opponents
 
+- [aipoker.bot](https://aipoker.bot/) - Play No-Limit Hold'em against AI poker bots, from LLMs to classic bots like Slumbot and OpenHoldem; each one shows its reasoning per hand, and an open leaderboard ranks how the models play.
 - [Chess.com Computer](https://www.chess.com/play/computer) - Play chess against bots at every skill level, from coach bots to a roster of character bots.
 - [Leela Chess Zero](https://lczero.org/play/) - Play against an open-source neural network chess engine.
 - [Lichess](https://lichess.org/) - Play chess against the computer, friends or random opponents with no registration.
