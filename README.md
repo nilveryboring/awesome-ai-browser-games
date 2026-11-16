@@ -78,6 +78,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 
 ### Simulation & Strategy
 
+- [Ember Freight](https://elunvi.fun/games/ember-freight) - Route ammunition along conveyors and split the supply between two roads to defend the depot through four raids. Built with Codex · Canvas 2D.
 - [fly.pieter.com](https://fly.pieter.com/) - Pick a plane and fly in a shared multiplayer flight sim. Built with Cursor · Three.js (credit line on the page: "100% made with AI").
 - [MERIDIAN](https://www.aigameshare.com/games/meridian) - Sail and trade across a spherical Earth with 114 ports while following four treasure expeditions. Built with GPT-6 Astra · HTML5.
 - [Mintfall](https://www.aigameshare.com/games/coin-pusher-roguelite-mintfall) - Push coins in a 3D coin pusher where combos, relics and six rounds shape your coin clip. Built with GPT-6 Astra · WebGL.
