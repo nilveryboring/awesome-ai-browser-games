@@ -107,6 +107,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 - [Chess.com Computer](https://www.chess.com/play/computer) - Play chess against bots at every skill level, from coach bots to a roster of character bots.
 - [Leela Chess Zero](https://lczero.org/play/) - Play against an open-source neural network chess engine.
 - [Lichess](https://lichess.org/) - Play chess against the computer, friends or random opponents with no registration.
+- [Puffer Party](https://pufferparty.org/) - Take turns naming unused answers in a category before time runs out, with labelled practice bots that respond at different speeds.
 - [Quick, Draw!](https://quickdraw.withgoogle.com/) - Draw doodles and watch a neural network try to recognize them, and help teach it by playing.
 - [Reversi](https://www.aigameshare.com/games/reversi) - Play Othello against an Easy, Medium or Hard AI with legal move previews, undo and hints. Built with GPT-5 · HTML5.
 - [Which Face Is Real?](https://www.whichfaceisreal.com/) - Click the real person out of two faces, where the other is computer-generated. University of Washington project.
