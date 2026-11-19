@@ -55,6 +55,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 
 ### Puzzle & Logic
 
+- [Crowd Pick](https://noillirk.best/#practice) - Pick the answer you think ranks highest in a seven-question quiz and earn points based on its rank. Built with Codex (model not stated) · HTML5 and JavaScript.
 - [Klotski](https://www.aigameshare.com/games/klotski) - Slide the blocks of the classic Huarong Dao puzzle through 36 levels with hints and drag controls. Built with GPT-5.5 · HTML5.
 - [Nonogram](https://www.aigameshare.com/games/nonogram) - Fill grids from row and column clues to reveal pixel pictures, with 370+ puzzles that are solvable by logic alone. Built with Claude Fable 5.1 · HTML5.
 - [Shadow Opera](https://www.aigameshare.com/games/shadow-opera) - Rotate carvings and move a lantern so load-bearing shadows carry you across each act of a shadow-puppet puzzle. Built with Claude Fable 5 · Three.js.
