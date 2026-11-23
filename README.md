@@ -60,6 +60,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 - [Shadow Opera](https://www.aigameshare.com/games/shadow-opera) - Rotate carvings and move a lantern so load-bearing shadows carry you across each act of a shadow-puppet puzzle. Built with Claude Fable 5 · Three.js.
 - [Sokoban](https://www.aigameshare.com/games/sokoban) - Push crates onto goals across 123 levels, each checked by a solver, with undo and optimal-push hints. Built with Claude Fable 5.1 · PixiJS.
 - [WenWare](https://wen-ware.com/) - Guess where and when a historical scene took place in a GeoGuessr-style game. Vibe Jam 2026 bronze; model not stated by the author.
+- [Word Drop](https://poprecallgames.com/word-drop/) - Type falling words before they touch the ground. Built with Muse in vanilla JavaScript.
 
 ### Card & Board
 
@@ -73,6 +74,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 - [HANABI 3D Pinball](https://www.aigameshare.com/games/hanabi-3d-pinball) - Shoot ramps and orbits on a festival-night table to load fireworks, then launch them all from the tower. Built with Claude Opus 5.5 · HTML5.
 - [KELIR](https://www.aigameshare.com/games/kelir) - Steer through a shadow-puppet survivors arena while your weapons fire themselves, ending in three demon-king fights. Built with Claude Fable 5.1 · PixiJS.
 - [NORDWAND](https://www.aigameshare.com/games/nordwand-3d-wingsuit-flying) - Leap off a summit, skim the rock for proximity score, thread gates and land on the cross. Built with Claude Fable 5.1 · HTML5.
+- [Star Serpent](https://poprecallgames.com/star-serpent/) - Steer a serpent under a night sky and eat 10 golden stars to win. Built with Muse in vanilla JavaScript.
 - [Tornado Chase 3D](https://www.aigameshare.com/games/tornado-chase-3d) - Fly a camera drone to photograph a moving tornado with three shots, then sell the footage and upgrade. Built with GPT-6 Sol · HTML5.
 - [Vibeware](https://vibeware.vercel.app/) - Play as a scraping bot through WarioWare-style microgames with an annoying soundtrack, and add your own. Vibe Jam 2025 winner (per [Indie Hackers](https://www.indiehackers.com/post/Uz0wHG4pI3KBOiFhP5YR)); model not stated · React.
 
