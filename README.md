@@ -78,6 +78,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 
 ### Simulation & Strategy
 
+- [AI Axis & Allies](https://hayneian000.github.io/axis-allies-ai/) - Command 1942 armies on the full world board, hot-seat or against LLM generals that negotiate and break deals. Built with Muse · TypeScript, Vite.
 - [fly.pieter.com](https://fly.pieter.com/) - Pick a plane and fly in a shared multiplayer flight sim. Built with Cursor · Three.js (credit line on the page: "100% made with AI").
 - [MERIDIAN](https://www.aigameshare.com/games/meridian) - Sail and trade across a spherical Earth with 114 ports while following four treasure expeditions. Built with GPT-6 Astra · HTML5.
 - [Mintfall](https://www.aigameshare.com/games/coin-pusher-roguelite-mintfall) - Push coins in a 3D coin pusher where combos, relics and six rounds shape your coin clip. Built with GPT-6 Astra · WebGL.
