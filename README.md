@@ -119,6 +119,7 @@ Maintained by [nilveryboring](https://github.com/nilveryboring), who also runs [
 - [itch.io: AI-generated](https://itch.io/games/tag-ai-generated) - Games on itch.io tagged as AI-generated.
 - [itch.io: LLM](https://itch.io/games/tag-llm) - Games on itch.io tagged llm, including browser-playable ones where a language model runs the game.
 - [itch.io: vibe-coding](https://itch.io/games/tag-vibe-coding) - Games on itch.io tagged vibe-coding.
+- [neme.world](https://neme.world) - Publish a browser game from the web or an AI coding agent, then read a version report of Play, load, retention, last point reached and player notes. Free browser play; publishing needs an account except for temporary unclaimed builds.
 - [Vibe Jam](https://vibejam.com/2026/) - Annual jam run by Pieter Levels (levelsio) for browser games with at least 90% AI-written code and no login. 2025 and 2026 entries are archived on the site.
 - [vibecode.game](https://vibecode.game/) - Browse vibe-coded indie games, game jams, developer profiles and AI dev tools.
 
